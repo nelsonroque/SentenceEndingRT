@@ -1,0 +1,1 @@
+MID	part_id	date	time	b_name	b_ver	b_plt	b_UA	current_trial	qualtrics_response_id	condition	img_name	valence	arousal	RT
